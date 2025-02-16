@@ -1,3 +1,5 @@
+https://gofile.io/d/Zqpi1x
+
 Get a VPS, domain name and trusted certs
 
 To be able to self-host a matrix server, you need a Linux machine (preferrably Ubuntu 22.04). You can get a VPS server from any provider you like. Optionally, you can also get yourself a domain name to use with your chat app. 
